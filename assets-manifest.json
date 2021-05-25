@@ -1,4 +1,5 @@
 {
   "main.js": "render-page.js",
-  "render-page.js.map": "render-page.js.map"
+  "render-page.js.map": "render-page.js.map",
+  "static/makiosTechnology.png": "static/makiosTechnology-64f76ec0b65ca3dca049a08315d7e612.png"
 }
